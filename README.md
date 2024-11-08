@@ -1,2 +1,2 @@
 # WeatherApp
-# Raw version of my app
+Raw version of my app
